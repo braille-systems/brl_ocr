@@ -1,0 +1,6 @@
+[submodule "AngelinaDataset"]
+	path = AngelinaDataset
+	url = https://github.com/braille-systems/AngelinaDataset.git
+[submodule "DSBI"]
+	path = DSBI
+	url = https://github.com/braille-systems/DSBI.git
