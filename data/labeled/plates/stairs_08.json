@@ -1,0 +1,170 @@
+{
+  "version": "4.5.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "л",
+      "points": [
+        [
+          825.3,
+          1189.3
+        ],
+        [
+          852.0,
+          1228.9655172413793
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "е",
+      "points": [
+        [
+          864.9655172413793,
+          1187.0344827586207
+        ],
+        [
+          889.1034482758621,
+          1227.8620689655172
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "с",
+      "points": [
+        [
+          904.0,
+          1184.8
+        ],
+        [
+          926.8,
+          1223.9
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "т",
+      "points": [
+        [
+          943.2,
+          1183.2
+        ],
+        [
+          965.2,
+          1221.6
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "н",
+      "points": [
+        [
+          980.4,
+          1182.2
+        ],
+        [
+          1003.0,
+          1218.9
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "и",
+      "points": [
+        [
+          1040.0,
+          1178.4
+        ],
+        [
+          1018.3,
+          1218.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ц",
+      "points": [
+        [
+          1055.5,
+          1177.7
+        ],
+        [
+          1077.2,
+          1213.3
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "а",
+      "points": [
+        [
+          1091.9,
+          1174.6
+        ],
+        [
+          1115.2,
+          1210.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "##",
+      "points": [
+        [
+          1169.8,
+          1207.2
+        ],
+        [
+          1146.6,
+          1170.7
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "8",
+      "points": [
+        [
+          1183.5,
+          1168.7
+        ],
+        [
+          1205.1,
+          1205.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "stairs_08.JPG",
+  "imageData": null,
+  "imageHeight": 2592,
+  "imageWidth": 1936
+}
